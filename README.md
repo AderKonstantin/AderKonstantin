@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AderKonstantin
 - 👀 I’m interested in ...
-- 🌱 I’m currently learning Front-End(HTML, CSS, JS, Bootstrap, React), Back-End(node.js, django, flask, php), Game Dev(Unity)
+- 🌱 I’m currently learning Front-End(HTML, CSS, JS, Bootstrap, React), Back-End(node.js, django, flask, nginx), Game Dev(Unity)
 - 📫 You can reach me on email (aderkonstantin9@gmail.com)
 
 <!---
