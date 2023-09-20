@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @AderKonstantin
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning Front-End(HTML, CSS, JS, Bootstrap, React), Back-End(node.js, django, flask, nginx), Game Dev(Unity)
-- 📫 You can reach me on ...
+- 👀 I’m interested in web-development & game-development
+- 🌱 I’m currently learning Front-End(HTML, CSS, JS, Bootstrap, React), Back-End(node.js, django, flask, nginx) & C++(UnrealEngine)
 
 <!---
 AderKonstantin/AderKonstantin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
