@@ -1,7 +1,7 @@
 # AderKonstantin
 
  👋 Hello. I am is a programmer, hacker(not too much as i think) and otaku.
-Love comics, animae, coding, read books. There im posting articles about computer science and another staff, that’s im like.
+Love comics, animae, coding, read books. There is my GitHub Profile.
 
 I'm a indie developer and amateur tech writer with an interest in web and game development. All coding projects are built from the ground up, from planning and design to solving real-world problems with code.
 
