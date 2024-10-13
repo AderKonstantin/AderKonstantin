@@ -25,7 +25,7 @@ I'm a indie developer and amateur tech writer with an interest in web and game d
 
 ## Main Projects
 
-- [AderCI.ru](https://aderci.ru/) - my own blog with tech articles.
+- [aderk.tech](https://aderk.tech/) - my own blog with tech articles.
 
 
 
